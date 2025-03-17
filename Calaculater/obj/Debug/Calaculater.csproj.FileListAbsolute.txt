@@ -1,0 +1,10 @@
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\bin\Debug\Calaculater.exe.config
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\bin\Debug\Calaculater.exe
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\bin\Debug\Calaculater.pdb
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.csproj.AssemblyReference.cache
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.Form1.resources
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.Properties.Resources.resources
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.csproj.GenerateResource.cache
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.csproj.CoreCompileInputs.cache
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.exe
+C:\Users\moath\Desktop\C#\Calaculater\Calaculater\obj\Debug\Calaculater.pdb
